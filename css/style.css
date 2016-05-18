@@ -1,0 +1,32 @@
+.navbar{
+  background-color: black;
+}
+ .navbar .h2{
+    color: white;
+    margin-right: 200px;
+  }
+blockquote {
+  width: 395px;
+
+}
+
+.hiddendiv{
+  visibility: hidden;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 51px;
+  background-color: black;
+  color:white;
+}
